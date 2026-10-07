@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic
+pydantic-settings
+httpx
+langchain
+langchain-core
+langchain-ollama
+langchain-community
+langchain-chroma
+chromadb
